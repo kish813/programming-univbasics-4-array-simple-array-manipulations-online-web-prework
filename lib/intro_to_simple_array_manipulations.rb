@@ -3,6 +3,6 @@ dogs = ["yorkie","boxer", "collie" ]
   p dogs
   => ["yorkie","boxer", "collie", "doberman"]
   
-  dogs = ["yorkie","boxer", "collie" ]
+  dogs = ["yorkie","boxer", "collie", "doberman"]
   doberman = dogs.pop
-  p dogs=>
+  p dogs=> 
