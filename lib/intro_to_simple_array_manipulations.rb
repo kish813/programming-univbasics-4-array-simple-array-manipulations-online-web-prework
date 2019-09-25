@@ -5,4 +5,8 @@ dogs = ["yorkie","boxer", "collie" ]
   
   dogs = ["yorkie","boxer", "collie", "doberman"]
   doberman = dogs.pop
-  p dogs=> 
+  p dogs=> dogs = ["yorkie","boxer", "collie" ]
+  
+  yorkie = dogs.shift
+  
+  
